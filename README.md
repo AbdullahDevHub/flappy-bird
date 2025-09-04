@@ -55,3 +55,5 @@ src/
 - Built with [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), [Vite](https://vitejs.dev/), and [Tailwind CSS](https://tailwindcss.com/)
 
 ## Live Preview
+
+- [Flappy-Bird-2d](https://flappy-bird-2d.vercel.app/)
