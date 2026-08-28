@@ -14,8 +14,8 @@ const BIRD_SIZE = 20;
 const BIRD_X = 80;
 const PIPE_WIDTH = 60;
 const PIPE_GAP = 150;
-const GRAVITY = 0.28;
-const JUMP_STRENGTH = -8;
+const GRAVITY = 0.3;
+const JUMP_STRENGTH = -4;
 const PIPE_SPEED = 3;
 const GROUND_HEIGHT = 80;
 
